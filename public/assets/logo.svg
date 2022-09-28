@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="105.75052mm"
+   height="105.75052mm"
+   viewBox="0 0 399.68701 399.68701"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="fullcircle.svg"
+   inkscape:export-filename="C:\Users\Propei\Pictures\semicircle.png"
+   inkscape:export-xdpi="179.90077"
+   inkscape:export-ydpi="179.90077"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title20">Semi filled circle</title>
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="1.046994"
+     inkscape:cx="393.98507"
+     inkscape:cy="212.99071"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-170.74121,-35.114856)">
+    <g
+       id="g36">
+      <circle
+         style="fill:none;stroke:#000000;stroke-width:40.063;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0"
+         id="circle115"
+         cx="370.58472"
+         cy="234.95836"
+         r="174.2877" />
+      <path
+         id="path6857"
+         style="fill:none;stroke:#7f7f7f;stroke-width:43.767;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M 401.73783,60.051128 A 190.40151,190.40151 0 0 1 546.71876,219.72969" />
+      <circle
+         style="fill:none;stroke:#7f7f7f;stroke-width:6.17953;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path31"
+         cx="370.58472"
+         cy="234.95836"
+         r="196.75374" />
+      <circle
+         style="fill:none;stroke:#7f7f7f;stroke-width:6.24919;stroke-linejoin:round;stroke-opacity:1"
+         id="circle113"
+         cx="370.58472"
+         cy="234.95836"
+         r="153.69385" />
+    </g>
+  </g>
+  <metadata
+     id="metadata18">
+    <rdf:RDF>
+      <cc:License
+         rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:permits
+           rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+      </cc:License>
+      <cc:Work
+         rdf:about="">
+        <cc:license
+           rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+        <dc:title>Semi filled circle</dc:title>
+        <dc:date>2022-09-13</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Cláudio Souza Jr. &lt;claudiosouzajunior@gmail.com&gt;</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>Public Domain</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:source>claudiosouzajunior@gmail.com</dc:source>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>semi circle</rdf:li>
+            <rdf:li>semi filled circle</rdf:li>
+            <rdf:li>semicírculo</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+        <dc:description>A partially filled circle. 
+Um círculo parcialmente preenchido.
+Un círculo parcialmente lleno</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+</svg>

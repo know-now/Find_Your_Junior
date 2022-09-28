@@ -1,0 +1,120 @@
+body {
+    padding-top: 70px;
+    background-color: #f8f9fa;
+}
+.candidate {
+    background-image: url("/assets/red-background.png");
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.btn {
+    border: solid #00a2df;
+}
+
+.btn:hover {
+    border-color: #ee2436;
+}
+
+.btn-Iam {
+    border: solid white;
+}
+
+.company {
+    background-color: #00a2df;
+}
+.team {
+    background-color: #00a2df;
+}
+
+div.temp-navbar {
+    font-size: x-small;
+    color: white;
+    background-color: rgb(250, 250, 250);
+    display: flex;
+    flex-direction: row;
+}
+
+.bi-search:hover {
+    display: inline-block;
+    font-size: 0px;
+    cursor: pointer;
+    margin: 15px 30px;
+    width: 90px;
+    height: 90px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+}
+
+/* .container-fluid a {
+    text-decoration: none !important;
+    color: white;
+} */
+
+.text-underline-hover {
+    text-decoration: none;
+}
+
+.text-underline-hover:hover {
+    text-decoration: underline;
+}
+
+a:not([class]) {
+    text-decoration: none;
+}
+
+a:not([class]):hover {
+    text-decoration: underline;
+}
+
+.blockquote-custom {
+    position: relative;
+    font-size: 1.1rem;
+}
+
+.blockquote-custom-icon {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    border: solid #00a2df;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    top: -25px;
+    left: 50px;
+}
+
+.contest {
+    background: rgb(238, 36, 54);
+    background: linear-gradient(
+        113deg,
+        rgba(238, 36, 54, 1) 23%,
+        rgba(255, 255, 255, 1) 68%
+    );
+}
+
+.contest-box:hover {
+    border: 3px dotted #ee2436;
+    color: #ee2436;
+    background: #fff;
+}
+
+.btn-CV {
+    border: solid 3px #00a2df;
+    background-color: #f8f9fa;
+}
+
+.contest-howToWrite{
+    background: rgb(255,255,255);
+background: linear-gradient(113deg, rgba(255,255,255,1) 23%, rgba(0,162,223,1) 68%);
+}
+.contest-testYourself{
+    background: rgb(248,249,250);
+background: linear-gradient(253deg, rgba(248,249,250,1) 33%, rgba(200,201,199,1) 84%);
+}

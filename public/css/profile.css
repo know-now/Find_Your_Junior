@@ -1,0 +1,19 @@
+html, 
+body {
+    height: 100%;
+}
+
+.profile-btn, .next-btn, .prev-btn{
+    color: white;
+    background-color: #00A2DF;
+    border: white;
+    font-size: medium;
+}
+
+.step{
+    display: none;
+}
+
+.step.active {
+    display: flex;
+}
